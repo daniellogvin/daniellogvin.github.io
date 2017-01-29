@@ -1,0 +1,8 @@
+Origin: Bl4ck_c0d3
+Label: Bl4ck_c0d3
+Suite: beta
+Version: 0.1
+Codename: beta
+Architectures: bl4ck_c0d3
+Components: main
+Description: Betas, experiments, etc.
